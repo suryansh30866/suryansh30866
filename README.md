@@ -1,0 +1,132 @@
+<div align="center">
+
+<img src="./suryansh_batman_ascii_animated.gif" width="100%">
+
+<br>
+
+# SURYANSH YADAV
+
+### Aerospace • Rocketry • Software • Research
+
+[![Website](https://img.shields.io/badge/ASTRAKSHAYA-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.astrakshaya.space/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryansh-yadav-873766252/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suryansh_13.8/)
+
+</div>
+
+---
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                     MISSION CONTROL                         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  NAME        : SURYANSH YADAV                               │
+│  BASE        : VARANASI, INDIA                              │
+│  STATUS      : BUILDING                                     │
+│                                                             │
+│  FOCUS       : AEROSPACE                                    │
+│                ROCKETRY                                     │
+│                EMBEDDED SYSTEMS                             │
+│                SOFTWARE                                     │
+│                ENGINEERING RESEARCH                         │
+│                                                             │
+│  CURRENTLY   : ASTRakshaya Aerospace                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## `> ABOUT`
+
+I'm a student builder exploring the intersection of **aerospace, rocketry, electronics, software and engineering research**.
+
+I prefer building things end-to-end:
+
+`IDEA → DESIGN → SIMULATION → ELECTRONICS → SOFTWARE → PROTOTYPE → TEST → ITERATE`
+
+## `> ASTRakshaya`
+
+**Astrakshaya Aerospace** is an independent student-led aerospace and rocketry initiative.
+
+### Areas of exploration
+
+```text
+AEROSPACE SYSTEMS
+├── Rocketry
+├── Avionics
+├── Flight Systems
+├── Propulsion Research
+└── Space Systems
+
+ENGINEERING
+├── CAD / Mechanical Design
+├── Simulation
+├── Embedded Electronics
+└── Data Acquisition
+
+SOFTWARE
+├── Engineering Tools
+├── Simulation
+├── Web Systems
+└── Embedded Software
+```
+
+**Website:** https://www.astrakshaya.space/
+
+## `> SELECTED PROJECTS`
+
+| Project | Focus |
+|---|---|
+| **Nimbus-2001** | Aerospace / Rocketry |
+| **Astrakshaya** | Aerospace Platform |
+| **ECHO** | Engineering / Software |
+| **Hogwarts** | TypeScript / Software |
+
+## `> TECHNOLOGY`
+
+```text
+LANGUAGES
+Python • C/C++ • JavaScript • TypeScript • HTML • CSS
+
+HARDWARE
+ESP32 • Embedded Systems • Sensors • Electronics
+
+ENGINEERING
+CAD • Simulation • 3D Design • Data Acquisition
+
+TOOLS
+Git • GitHub • Blender • OpenRocket • Fusion 360 • ANSYS
+```
+
+## `> GITHUB TELEMETRY`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suryansh30866&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&count_private=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh30866&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=suryansh30866&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF">
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+BUILD.
+BREAK.
+MEASURE.
+ITERATE.
+```
+
+### `STATUS: BUILDING`
+
+</div>
